@@ -15,6 +15,7 @@ I love web and mobile development with a love-hate story with front-end so if I 
     - Nest.js
 
 - 🌱 I’m currently learning:
+  - Svelte!
   - Some Rust 🦀
   
 - 😎 Want to learn: 
