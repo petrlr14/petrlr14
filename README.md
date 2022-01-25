@@ -28,4 +28,3 @@ I love web and mobile development with a love-hate story with front-end so if I 
 - ⚡ Fun facts:  
   -  I really like front-end development, but when it comes to self thought designs I'm the less creative person you will ever meet in your life. You can tell just looking at this README 😔
   - Javascript is so weird. I love it.
-  - I have a blog about everything and nothing at the same time. You can check it out at [pedrogas.me](https://pedrogas.me)
